@@ -1,7 +1,10 @@
 {
   "name": "devopsnpmtest",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "ZHAW-Test",
+=======
+>>>>>>> 475b5e9897f5ec56c16183eee6dc66db5f9deced
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/zhaw-iwi/DevOpsNPM/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/zhaw-iwi/DevOpsNPM#readme"
+=======
+  "homepage": "https://github.com/zhaw-iwi/DevOpsNPM#readme",
+  "devDependencies": {},
+  "description": ""
+>>>>>>> 475b5e9897f5ec56c16183eee6dc66db5f9deced
 }
